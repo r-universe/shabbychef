@@ -1,56 +1,21 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/shabbychef/universe
 	shallow = true
 	branch = HEAD
-[submodule "BWStest"]
-	path = BWStest
-	url = https://github.com/shabbychef/bwstest
-	shallow = true
-	registered = true
-[submodule "cocktailApp"]
-	path = cocktailApp
-	url = https://github.com/shabbychef/cocktailapp
-	shallow = true
-	registered = true
-[submodule "epsiwal"]
-	path = epsiwal
-	url = https://github.com/shabbychef/epsiwal
-	shallow = true
-	registered = true
-[submodule "fromo"]
-	path = fromo
-	url = https://github.com/shabbychef/fromo
-	shallow = true
-	registered = true
-[submodule "ggallin"]
-	path = ggallin
-	url = https://github.com/shabbychef/ggallin
-	shallow = true
-	registered = true
-[submodule "madness"]
-	path = madness
-	url = https://github.com/shabbychef/madness
+[submodule "SharpeR"]
+	path = SharpeR
+	url = https://github.com/shabbychef/SharpeR
 	shallow = true
 	registered = true
 [submodule "MarkowitzR"]
 	path = MarkowitzR
-	url = https://github.com/shabbychef/markowitzr
+	url = https://github.com/shabbychef/MarkowitzR
 	shallow = true
 	registered = true
-[submodule "mazealls"]
-	path = mazealls
-	url = https://github.com/shabbychef/mazealls
-	shallow = true
-	registered = true
-[submodule "ohenery"]
-	path = ohenery
-	url = https://github.com/shabbychef/ohenery
-	shallow = true
-	registered = true
-[submodule "PDQutils"]
-	path = PDQutils
-	url = https://github.com/shabbychef/pdqutils
+[submodule "PDQUtils"]
+	path = PDQUtils
+	url = https://github.com/shabbychef/PDQUtils
 	shallow = true
 	registered = true
 [submodule "sadists"]
@@ -58,13 +23,69 @@
 	url = https://github.com/shabbychef/sadists
 	shallow = true
 	registered = true
-[submodule "SharpeR"]
-	path = SharpeR
-	url = https://github.com/shabbychef/sharper
+[submodule "madness"]
+	path = madness
+	url = https://github.com/shabbychef/madness
+	shallow = true
+	registered = true
+[submodule "BWStest"]
+	path = BWStest
+	url = https://github.com/shabbychef/BWStest
+	shallow = true
+	registered = true
+[submodule "ggallin"]
+	path = ggallin
+	url = https://github.com/shabbychef/ggallin
 	shallow = true
 	registered = true
 [submodule "SPYvsSPY"]
 	path = SPYvsSPY
-	url = https://github.com/shabbychef/spyvsspy
+	url = https://github.com/shabbychef/SPYvsSPY
 	shallow = true
+	registered = true
+[submodule "cocktailApp"]
+	path = cocktailApp
+	url = https://github.com/shabbychef/cocktailApp
+	shallow = true
+	registered = true
+[submodule "fromo"]
+	path = fromo
+	url = https://github.com/shabbychef/fromo
+	shallow = true
+	registered = true
+[submodule "ohenery"]
+	path = ohenery
+	url = https://github.com/shabbychef/ohenery
+	shallow = true
+	registered = true
+[submodule "mazealls"]
+	path = mazealls
+	url = https://github.com/shabbychef/mazealls
+	shallow = true
+	registered = true
+[submodule "epsiwal"]
+	path = epsiwal
+	url = https://github.com/shabbychef/epsiwal
+	shallow = true
+	registered = true
+[submodule "HappyCampR"]
+	path = HappyCampR
+	url = https://github.com/shabbychef/HappyCampR
+	shallow = true
+	registered = true
+[submodule "faroutman"]
+	path = faroutman
+	url = https://github.com/shabbychef/faroutman
+	shallow = true
+	registered = true
+[submodule "zipper"]
+	path = zipper
+	url = https://github.com/shabbychef/zipper
+	shallow = true
+	registered = true
+[submodule "tsrsa"]
+	path = tsrsa
+	url = https://github.com/shabbychef/tsrsa
+	shallow = true
+	subdir = rpkg
 	registered = true
