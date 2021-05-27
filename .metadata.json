@@ -1,0 +1,54 @@
+[
+  {
+    "package": "BWStest",
+    "oncran": true
+  },
+  {
+    "package": "cocktailApp",
+    "oncran": true
+  },
+  {
+    "package": "epsiwal",
+    "oncran": true
+  },
+  {
+    "package": "fromo",
+    "oncran": true
+  },
+  {
+    "package": "ggallin",
+    "oncran": true
+  },
+  {
+    "package": "madness",
+    "oncran": true
+  },
+  {
+    "package": "MarkowitzR",
+    "oncran": true
+  },
+  {
+    "package": "mazealls",
+    "oncran": true
+  },
+  {
+    "package": "ohenery",
+    "oncran": true
+  },
+  {
+    "package": "PDQutils",
+    "oncran": true
+  },
+  {
+    "package": "sadists",
+    "oncran": true
+  },
+  {
+    "package": "SharpeR",
+    "oncran": true
+  },
+  {
+    "package": "SPYvsSPY",
+    "oncran": true
+  }
+]
