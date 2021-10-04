@@ -13,6 +13,11 @@
 	url = https://github.com/shabbychef/MarkowitzR
 	shallow = true
 	registered = true
+[submodule "PDQUtils"]
+	path = PDQUtils
+	url = https://github.com/shabbychef/PDQUtils
+	shallow = true
+	registered = true
 [submodule "sadists"]
 	path = sadists
 	url = https://github.com/shabbychef/sadists
