@@ -5,7 +5,7 @@
   },
   {
     "package": "MarkowitzR",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "PDQUtils"
@@ -16,7 +16,7 @@
   },
   {
     "package": "madness",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "BWStest",
@@ -44,7 +44,7 @@
   },
   {
     "package": "mazealls",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "epsiwal",
