@@ -20,7 +20,7 @@
   },
   {
     "package": "BWStest",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "ggallin",
@@ -32,7 +32,7 @@
   },
   {
     "package": "cocktailApp",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "fromo",
