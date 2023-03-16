@@ -1,54 +1,42 @@
 [
   {
-    "package": "SharpeR",
-    "oncran": true
+    "package": "SharpeR"
   },
   {
-    "package": "MarkowitzR",
-    "oncran": true
+    "package": "MarkowitzR"
   },
   {
     "package": "PDQUtils"
   },
   {
-    "package": "sadists",
-    "oncran": true
+    "package": "sadists"
   },
   {
-    "package": "madness",
-    "oncran": true
+    "package": "madness"
   },
   {
-    "package": "BWStest",
-    "oncran": true
+    "package": "BWStest"
   },
   {
-    "package": "ggallin",
-    "oncran": true
+    "package": "ggallin"
   },
   {
-    "package": "SPYvsSPY",
-    "oncran": true
+    "package": "SPYvsSPY"
   },
   {
-    "package": "cocktailApp",
-    "oncran": true
+    "package": "cocktailApp"
   },
   {
-    "package": "fromo",
-    "oncran": true
+    "package": "fromo"
   },
   {
-    "package": "ohenery",
-    "oncran": true
+    "package": "ohenery"
   },
   {
-    "package": "mazealls",
-    "oncran": true
+    "package": "mazealls"
   },
   {
-    "package": "epsiwal",
-    "oncran": true
+    "package": "epsiwal"
   },
   {
     "package": "HappyCampR"
