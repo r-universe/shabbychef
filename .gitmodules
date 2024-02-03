@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/shabbychef/universe
+	url = https://github.com/shabbychef/shabbychef.r-universe.dev
 	branch = HEAD
 [submodule "BWStest"]
 	path = BWStest
