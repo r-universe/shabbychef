@@ -44,9 +44,9 @@
 [submodule "ohenery"]
 	path = ohenery
 	url = https://github.com/shabbychef/ohenery
-[submodule "rnmf"]
-	path = rnmf
-	url = https://github.com/shabbychef/rnmf
+[submodule "rnnmf"]
+	path = rnnmf
+	url = https://github.com/shabbychef/rnnmf
 [submodule "sadists"]
 	path = sadists
 	url = https://github.com/shabbychef/sadists
